@@ -11,3 +11,6 @@
 # MYSQL. Задача 4
 * Ссылка на репозиторий
 	* [Ссылка на схему (прототип)](https://github.com/Amor30/practice/blob/main/mysql%20task%204/screen_db.jpg)
+# PHP. Задача 5
+* Ссылка на репозиторий
+	* [Ссылка на сертификат](https://www.sololearn.com/certificates/CT-YXOXVFNJ)
