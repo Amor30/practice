@@ -14,3 +14,7 @@
 # PHP. Задача 5
 * Ссылка на репозиторий
 	* [Ссылка на сертификат](https://www.sololearn.com/certificates/CT-YXOXVFNJ)
+# PHP. Задача 6
+* Ссылка на репозиторий
+	* [Task List](https://github.com/Amor30/taskList)
+	
