@@ -19,5 +19,5 @@
 	* [Task List](https://github.com/Amor30/taskList)
 # PHP. Задача 7
 * Ссылка на репозиторий
-	* [Репозиторий](https://github.com/Amor30/taskList)
+	* [Репозиторий](https://github.com/Amor30/Airplane)
 	
