@@ -10,7 +10,7 @@
 	* [Ссылка на сертификат](https://www.sololearn.com/certificates/CC-EVWK28LQ)
 # MYSQL. Задача 4
 * Ссылка на репозиторий
-	* [Ссылка на схему (прототип)](https://github.com/Amor30/practice/blob/main/mysql%20task%204/screen_db.jpg)
+	* [Ссылка на схему (V2)](https://github.com/Amor30/practice/blob/main/mysql%20task%204/schema_bd.png)
 # PHP. Задача 5
 * Ссылка на репозиторий
 	* [Ссылка на сертификат](https://www.sololearn.com/certificates/CT-YXOXVFNJ)
