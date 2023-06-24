@@ -17,4 +17,7 @@
 # PHP. Задача 6
 * Ссылка на репозиторий
 	* [Task List](https://github.com/Amor30/taskList)
+# PHP. Задача 7
+* Ссылка на репозиторий
+	* [Репозиторий](https://github.com/Amor30/taskList)
 	
